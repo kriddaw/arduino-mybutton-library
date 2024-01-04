@@ -1,6 +1,12 @@
-Accompanying YouTube Video:
+# Arduino: Multi-buttons Modular Code
+
+Accompanying YouTube Video: https://youtu.be/MClhvKm129M
 
 This code was developed to use multiple buttons on the Arduino platform with short and long press functionality while keeping code clean and modular.
+
+---
+
+## Usage
 
 Copy MyButton directory into Arduino 'libraries' folder located in Arduino Sketch folder.
 
